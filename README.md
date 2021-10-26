@@ -10,3 +10,8 @@ Nucleic Acids Res. 2007 Jan;35(Database issue):D253-9.
 doi: [10.1093/nar/gkl746](https://academic.oup.com/nar/article/35/suppl_1/D253/1088728). Epub 2006 Oct 26. 
 PMID: [17068077](https://pubmed.ncbi.nlm.nih.gov/17068077/);
 PMCID: [PMC1635320](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1635320/).
+
+
+Note:
+This dataset is from before the PDB remediation efforts, as such there may be
+some entries with inconsistent chain IDs.

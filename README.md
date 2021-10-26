@@ -1,6 +1,8 @@
 # Sisyphus
 An archive of data for the legacy Sisyphus project
 
+![Image of Sisyphus](https://github.com/andreasprlic/sisyphus/raw/main/sisyphus_log_small.gif)
+
 If you find the data useful , please cite :  
 _Andreeva A, Prli&#263; A, Hubbard TJ, Murzin AG._  
 **SISYPHUS--structural alignments for proteins with non-trivial relationships**.  
